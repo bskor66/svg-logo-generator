@@ -13,7 +13,7 @@ This project is a tool designed to create scalable vector graphics (SVG) logos w
 
 ## Demo
 
-Watch a live demo of the SVG Logo Generator here: [Watch Demo](https://watch.screencastify.com/v/YjHVi9SGUw83Gye1yy1g)
+Watch a live demo of the SVG Logo Generator here: [Watch Demo](https://drive.google.com/file/d/1BF-SpFS_O3LXHjvyoD7sKu9W0ibXakmm/view?usp=sharing)
 
 ## Getting Started
 
